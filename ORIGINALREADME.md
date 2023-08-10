@@ -12,8 +12,6 @@ A command-line application that generates a high-quality, professional README fo
 - [Questions](#questions)
 
 ## Installation
-1. Perform one of the following actions:
-
 1. Click on GitHub repository link:		
 
 https://github.com/JuanFranciscoGrillo/Challenge_09-Node.js.git
