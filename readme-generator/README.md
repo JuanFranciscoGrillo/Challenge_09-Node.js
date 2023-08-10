@@ -1,8 +1,8 @@
 
-# L
+# ReadME Generator
 
 ## Description
-l
+A command-line application that generates a high-quality, professional README for a new project. It prompts the user for information about the application repository and automatically generates sections for Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
 
 ## Table of Contents
 - [Description](#description)
@@ -14,21 +14,21 @@ l
 - [Questions](#questions)
 
 ## Installation
-l
+I. Click on GitHub repository link:https://github.com/JuanFranciscoGrillo/Challenge_09-Node.js.git
 
 ## Usage
-l
+In the main directory of the project, initiate the process by executing the command node index.js. Subsequently, navigate through the prompts to input pertinent details regarding your project. Upon furnishing all the necessary information, a polished README.md file will be automatically created within the designated output folder.
 
 ## Contributing
-l
+To contribute, follow these steps: Fork the repository, create a new branch for your changes, make and save your changes with clear messages, push them to your fork, and submit a pull request explaining your changes.
 
 ## Tests
-l
+To run tests, use the command `npm test` in the project's root directory. This will ensure that the README generation process is working correctly.
 
 ## License
-[![License](https://img.shields.io/badge/License-l-blue.svg)](https://opensource.org/licenses/l)
-This project is licensed under the l license.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under the MIT license.
 
 ## Questions
-GitHub: [l](https://github.com/l)
-Email: l
+GitHub: [[JuanFranciscoGrillo]](https://github.com/[JuanFranciscoGrillo])
+Email: jfrgm1986@gmail.com
