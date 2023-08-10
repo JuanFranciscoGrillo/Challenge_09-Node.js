@@ -14,13 +14,9 @@ A command-line application that generates a high-quality, professional README fo
 ## Installation
 1. Perform one of the following actions:
 
-I. Click on GitHub repository link:		
+1. Click on GitHub repository link:		
 
 https://github.com/JuanFranciscoGrillo/Challenge_09-Node.js.git
-
-II. Click on deployed website link:	
-
-https://juanfranciscogrillo.github.io/Challenge_09-Node.js/
 
 2. Navigate to the project's root directory.
 3. Run `npm install` to install the necessary dependencies.
